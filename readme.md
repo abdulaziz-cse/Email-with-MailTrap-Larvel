@@ -15,6 +15,8 @@
 </p>
 </div>
 
+<p> Change the .env For make conect with Mailtrap Juse use user name and Password Like this MAIL_USERNAME=abdulaziz-laravel and Pass link this MAIL_PASSWORD=343dkd3
+</p>
 <p>
     After that make ContController thean NewContactRequest in app/http/Mail/ ,
     
