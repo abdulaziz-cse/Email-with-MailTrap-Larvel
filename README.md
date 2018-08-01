@@ -1,6 +1,5 @@
-# Email-with-MailTrap-Larvel
  # Sent Email  - - -  إرسال ايميل عن طريق خدمة Trap 
-        ## Getting Started
+       # Getting Started
         
         First Make Page Form with html and bootstrap simple page.
         
